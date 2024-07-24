@@ -5,6 +5,7 @@ import { useSelector } from 'react-redux';
 import { FaShoppingCart } from 'react-icons/fa';
 import toast from 'react-hot-toast';
 import { useNavigate } from 'react-router-dom';
+import Success from '../pages/Success';
 
 const Cart = () => {
 
